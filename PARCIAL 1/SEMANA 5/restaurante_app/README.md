@@ -2,8 +2,6 @@
 
 *Estudiante:* 
 Denisse Margarita Merchan Jauregui
-*Asignatura:* 
-Programación Orientada a Objetos (Semana 5)
 
 ## Descripción del Sistema
 Un sistema modular básico desarrollado en Python para gestionar productos y clientes de un restaurante, aplicando principios elementales de la Programación Orientada a Objetos.
