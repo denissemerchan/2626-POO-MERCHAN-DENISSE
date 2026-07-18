@@ -47,3 +47,8 @@ estructura interna de Producto ni forzar reescrituras críticas en el servicio p
 
 Liskov Substitution Principle (LSP): La clase Bebida hereda correctamente de Producto, permitiendo que el listado de 
 productos procese de forma transparente y polimórfica objetos de ambos tipos mediante el método unificado mostrar_informacion().
+
+## Reflexión
+Un código mantenible es el pilar de un desarrollo eficiente, ya que evita que el software se vuelva obsoleto. Al organizar 
+el proyecto de forma ordenada, permitimos que cualquier desarrollador entienda el código fácilmente, reduciendo drásticamente 
+el tiempo y el estrés que cuesta actualizar el sistema en el futuro.
