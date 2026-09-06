@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "Papas fritas",
+        "precio": 0.5,
+        "stock": 10
+    },
+    {
+        "codigo": "002",
+        "nombre": "Seven up",
+        "precio": 1.1,
+        "stock": 40
+    }
+]
